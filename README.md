@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Pumpvitin.png" alt="Pumpvitin Logo" width="200"/>
+</p>
+
+
 # 🚀 Pumpvitin (PMVT) – energy for memes, power for markets 💊  
 **The official meme-coin that combines humor, community, and madness.**  
 
