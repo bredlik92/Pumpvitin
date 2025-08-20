@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pumpvitin.png" alt="Pumpvitin Logo" width="350"/>
+  <img src="Pumpvitin.png" alt="Pumpvitin Logo" width="300"/>
 </p>
 
 <p align="center">
@@ -16,73 +16,77 @@
 
 ---
 
-# 🚀 Pumpvitin (PMVT) – energy for memes, power for markets 💊  
-**The official meme-coin that combines humor, community, and madness.**  
+# 🚀 Pumpvitin (PMVT) – Energy for Memes, Power for Markets 💊
+
+**The official meme-coin that blends humor, energy, community, and madness.**  
+We don’t just create a coin – we create a movement to **troll the world with humor** and show that even memes can moon. 🌍✨  
 
 ---
 
 ## 🔥 About the Project  
-Pumpvitin is not just another coin. It’s the fuel for a community that believes the best way to beat market boredom is to **troll the world with humor**.  
-We blend crypto, memes, and marketing so that everyone laughs – and the chart goes up. 📈😂  
+Pumpvitin isn’t just another crypto. It’s **a social experiment, a meme revolution, and a fun way to escape market boredom**.  
+We combine:  
+- 💊 Energy of memes  
+- 😂 Power of community  
+- 📈 Fuel for endless growth  
+
+When people laugh, they share. When they share, we grow. And when we grow, the chart goes 🚀.
 
 ---
 
-## 💊 Tokenomics (Meme version)  
-- **Total Supply:** Infinite energy, but only a limited number of pills  
+## 💊 Tokenomics (Meme Version)  
+- **Total Supply:** Infinite energy, but only a limited number of pills 💊  
 - **Burn Mechanism:** Every coffee a trader drinks = 1 pill burned ☕🔥  
 - **Utility:**  
   - Pumpvitin = energy for your memes  
   - Fuel for community wars on X  
-  - Reward for the craziest humor  
+  - Rewards for the craziest humor  
 
 ---
 
 ## 🎮 Gamification  
-Every community member becomes part of the **Pumpvitin Levels**:  
-- Baby Pumper 👶💊  
-- Winged Pill 🪽💊  
-- Overdose Holder 🤯💊  
+Every holder becomes part of the **Pumpvitin Meme Army**.  
+Collect funny titles as the project evolves:  
+- Baby Pumper 🍼  
+- Winged Pill 💊🪽  
+- Overdose Holder 💊💀  
+
+The more you meme, the stronger you get.  
 
 ---
 
-## 🤡 Meme War Strategy  
-Our mission is to **troll markets and competition** – but only with humor.  
-- Elon Musk on Pumpvitin? ✅  
-- Solana powered by pills instead of servers? ✅  
-- CZ from Binance has a secret pharmacy stock? ✅  
-
----
-
-## 📢 Marketing Hacks  
-- **Meme contests** → winners get extra doses of $PUMPVITIN  
-- **Viral Missions** → “Who makes the craziest tweet/tag, wins”  
-- **Fake news for fun** → “Pumpvitin officially approved by FDA as rocket fuel 🚀”  
-
----
-
-## 🗺️ Roadmap  
-**Phase 1 – Birth of the Pill**  
-- Logo, community, first memes  
-
-**Phase 2 – Meme Invasion**  
-- X and Telegram full of our jokes  
-- Contests, ironic comments  
-
-**Phase 3 – Viral Expansion**  
-- Merch (t-shirts, mugs, posters with the pill)  
-- Pumpvitin on every timeline  
-
-**Phase 4 – Global Troll**  
-- The whole world under our humor  
-- “Pumpvitin World Tour” (online events, troll marketing)  
+## 🎭 Meme War Strategy  
+Our mission is simple: **troll markets & competitors – only with humor**.  
+- Elon Musk tweeting about Pumpvitin? 🚀  
+- Solana powered by pills instead of servers? ⚡💊  
+- Memes as strong as Bitcoin maxis’ conviction? 💪  
 
 ---
 
 ## 🌍 Community  
-- X (Twitter): [@pumpvitin](https://x.com/pumpvitin)  
-- Telegram: [t.me/pumpvitin](https://t.me/pumpvitin)  
-- PumpFun: https://pump.fun/coin/C6DKbkhRMn6xT5vghR2SXQ5PWA5vNedWXN9rXTnCpump
+We believe **community is the real utility**. Join the chaos here:  
+
+- 🐦 X (Twitter): [@pumpvitin](https://x.com/pumpvitin)  
+- 💬 Telegram: [t.me/pumpvitin](https://t.me/pumpvitin)  
+- 💻 PumpFun: [Pumpvitin on PumpFun](https://pump.fun/coin/C6DKbkhRMn6xT5vghR2SXQ5PWA5vNedWXN9rXTnCpump)  
 
 ---
 
-💊 Pumpvitin: **Because even markets need a dose of humor.**  
+## 🧠 Why It Works (Psychology of Memes)  
+- **Humor spreads faster than FOMO.**  
+- **Community loves inside jokes.**  
+- **People buy what makes them laugh.**  
+
+Pumpvitin = pill that fuels your dopamine & your portfolio.  
+
+---
+
+## 📢 Call to Action  
+👉 Take your pill. Join the movement. Meme the world.  
+**Because markets are boring without laughter.** 💊😂🚀  
+
+---
+
+<p align="center">
+  Made with ❤️, memes and too much coffee ☕🔥
+</p>
