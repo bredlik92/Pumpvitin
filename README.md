@@ -16,9 +16,6 @@
 
 ---
 
-# 🚀 Pumpvitin (PMVT) – energy for memes, power for markets 💊
-
-
 # 🚀 Pumpvitin (PMVT) – energy for memes, power for markets 💊  
 **The official meme-coin that combines humor, community, and madness.**  
 
