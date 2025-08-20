@@ -63,7 +63,7 @@ Our mission is to **troll markets and competition** – but only with humor.
 ## 🌍 Community  
 - X (Twitter): [@pumpvitin](https://x.com/pumpvitin)  
 - Telegram: [t.me/pumpvitin](https://t.me/pumpvitin)  
-- PumpFun: [bit.ly/4lwi7Ky](https://bit.ly/4lwi7Ky)  
+- PumpFun: (https://pump.fun/coin/C6DKbkhRMn6xT5vghR2SXQ5PWA5vNedWXN9rXTnCpump) 
 
 ---
 
