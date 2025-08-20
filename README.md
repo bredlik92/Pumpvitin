@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pumpvitin01.png" alt="Pumpvitin Logo" width="500"/>
+  <img src="Pumpvitin01.png" alt="Pumpvitin Logo" width="490"/>
 </p>
 
 <p align="center">
