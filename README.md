@@ -16,77 +16,103 @@
 
 ---
 
-# 🚀 Pumpvitin (PMVT) – Energy for Memes, Power for Markets 💊
+// pages/index.js
+import { motion } from "framer-motion";
+import { FaTelegram, FaTwitter, FaRocket } from "react-icons/fa";
 
-**The official meme-coin that blends humor, energy, community, and madness.**  
-We don’t just create a coin – we create a movement to **troll the world with humor** and show that even memes can moon. 🌍✨  
+export default function Home() {
+  return (
+    <div className="bg-black text-white min-h-screen font-sans">
+      {/* Hero */}
+      <section className="h-screen flex flex-col justify-center items-center text-center px-6">
+        <motion.div
+          animate={{ rotate: 360 }}
+          transition={{ repeat: Infinity, duration: 8, ease: "linear" }}
+          className="w-32 h-32 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full mb-8 flex items-center justify-center"
+        >
+          <span className="text-4xl">💊</span>
+        </motion.div>
 
----
+        <h1 className="text-5xl font-bold mb-4">
+          Pumpvitin – <span className="text-pink-500">The Pill That Pumps</span>
+        </h1>
+        <p className="text-lg mb-8">Energy for memes. Power for markets.</p>
 
-## 🔥 About the Project  
-Pumpvitin isn’t just another crypto. It’s **a social experiment, a meme revolution, and a fun way to escape market boredom**.  
-We combine:  
-- 💊 Energy of memes  
-- 😂 Power of community  
-- 📈 Fuel for endless growth  
+        <div className="flex gap-4">
+          <a
+            href="https://t.me/pumpvitin"
+            target="_blank"
+            className="px-6 py-3 bg-pink-500 rounded-full hover:scale-105 transition flex items-center gap-2"
+          >
+            <FaTelegram /> Join Telegram
+          </a>
+          <a
+            href="https://pump.fun/coin/C6DKbkhRMn6xT5vghR2SXQ5PWA5vNedWXN9rXTnCpump"
+            target="_blank"
+            className="px-6 py-3 bg-purple-500 rounded-full hover:scale-105 transition flex items-center gap-2"
+          >
+            <FaRocket /> Buy on PumpFun
+          </a>
+        </div>
+      </section>
 
-When people laugh, they share. When they share, we grow. And when we grow, the chart goes 🚀.
+      {/* About */}
+      <section className="py-20 px-8 max-w-5xl mx-auto text-center">
+        <h2 className="text-4xl font-bold mb-10">⚡ About Pumpvitin</h2>
+        <div className="grid md:grid-cols-3 gap-8">
+          <motion.div whileHover={{ scale: 1.05 }} className="p-6 bg-gray-900 rounded-2xl">
+            <h3 className="text-xl mb-2">💊 Energy of memes</h3>
+            <p>Laughter spreads faster than FOMO.</p>
+          </motion.div>
+          <motion.div whileHover={{ scale: 1.05 }} className="p-6 bg-gray-900 rounded-2xl">
+            <h3 className="text-xl mb-2">😂 Power of community</h3>
+            <p>The real utility is inside jokes.</p>
+          </motion.div>
+          <motion.div whileHover={{ scale: 1.05 }} className="p-6 bg-gray-900 rounded-2xl">
+            <h3 className="text-xl mb-2">📈 Fuel for growth</h3>
+            <p>When people share memes, charts go 🚀.</p>
+          </motion.div>
+        </div>
+      </section>
 
----
+      {/* Tokenomics */}
+      <section className="py-20 px-8 bg-gradient-to-r from-purple-900 to-black text-center">
+        <h2 className="text-4xl font-bold mb-10">💊 Tokenomics</h2>
+        <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+          <div className="p-6 bg-gray-900 rounded-2xl">🔥 Burn = Every coffee ☕</div>
+          <div className="p-6 bg-gray-900 rounded-2xl">💊 Supply = Infinite energy</div>
+          <div className="p-6 bg-gray-900 rounded-2xl">😂 Rewards = Craziest memes</div>
+        </div>
+      </section>
 
-## 💊 Tokenomics (Meme Version)  
-- **Total Supply:** Infinite energy, but only a limited number of pills 💊  
-- **Burn Mechanism:** Every coffee a trader drinks = 1 pill burned ☕🔥  
-- **Utility:**  
-  - Pumpvitin = energy for your memes  
-  - Fuel for community wars on X  
-  - Rewards for the craziest humor  
+      {/* Roadmap */}
+      <section className="py-20 px-8 max-w-4xl mx-auto">
+        <h2 className="text-4xl font-bold mb-10 text-center">🚀 Roadmap</h2>
+        <ul className="space-y-6 text-lg">
+          <li>✅ Phase 1: Launch & Meme Army</li>
+          <li>🔜 Phase 2: Listings & Meme Wars</li>
+          <li>🌍 Phase 3: Global Domination</li>
+        </ul>
+      </section>
 
----
+      {/* Community */}
+      <section className="py-20 px-8 text-center bg-gray-900">
+        <h2 className="text-4xl font-bold mb-6">🌍 Join the Community</h2>
+        <p className="mb-6">Be part of the Meme Army. Take your pill. Meme the world.</p>
+        <div className="flex justify-center gap-4">
+          <a href="https://x.com/pumpvitin" target="_blank" className="px-6 py-3 bg-blue-500 rounded-full hover:scale-105 transition flex items-center gap-2">
+            <FaTwitter /> Twitter
+          </a>
+          <a href="https://t.me/pumpvitin" target="_blank" className="px-6 py-3 bg-green-500 rounded-full hover:scale-105 transition flex items-center gap-2">
+            <FaTelegram /> Telegram
+          </a>
+        </div>
+      </section>
 
-## 🎮 Gamification  
-Every holder becomes part of the **Pumpvitin Meme Army**.  
-Collect funny titles as the project evolves:  
-- Baby Pumper 🍼  
-- Winged Pill 💊🪽  
-- Overdose Holder 💊💀  
-
-The more you meme, the stronger you get.  
-
----
-
-## 🎭 Meme War Strategy  
-Our mission is simple: **troll markets & competitors – only with humor**.  
-- Elon Musk tweeting about Pumpvitin? 🚀  
-- Solana powered by pills instead of servers? ⚡💊  
-- Memes as strong as Bitcoin maxis’ conviction? 💪  
-
----
-
-## 🌍 Community  
-We believe **community is the real utility**. Join the chaos here:  
-
-- 🐦 X (Twitter): [@pumpvitin](https://x.com/pumpvitin)  
-- 💬 Telegram: [t.me/pumpvitin](https://t.me/pumpvitin)  
-- 💻 PumpFun: [Pumpvitin on PumpFun](https://pump.fun/coin/C6DKbkhRMn6xT5vghR2SXQ5PWA5vNedWXN9rXTnCpump)  
-
----
-
-## 🧠 Why It Works (Psychology of Memes)  
-- **Humor spreads faster than FOMO.**  
-- **Community loves inside jokes.**  
-- **People buy what makes them laugh.**  
-
-Pumpvitin = pill that fuels your dopamine & your portfolio.  
-
----
-
-## 📢 Call to Action  
-👉 Take your pill. Join the movement. Meme the world.  
-**Because markets are boring without laughter.** 💊😂🚀  
-
----
-
-<p align="center">
-  Made with ❤️, memes and too much coffee ☕🔥
-</p>
+      {/* Footer */}
+      <footer className="py-6 text-center text-gray-500 text-sm">
+        Made with ❤️, memes & too much coffee ☕🔥
+      </footer>
+    </div>
+  );
+}
