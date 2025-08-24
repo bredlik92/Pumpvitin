@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Pumpvitin02.png" alt="Pumpvitin Logo" width="1000"/>
+</p>
 
 <p align="center">
   <img src="Pumpvitin01.png" alt="Pumpvitin Logo" width="490"/>
