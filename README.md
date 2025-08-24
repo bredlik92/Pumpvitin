@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Pumpvitin (PMVT) — The Pill That Pumps"
+nav_order: 1
+description: "Meme-powered, community-first experiment. Energy for memes. Power for markets."
+---
+
 <p align="center">
   <img src="Pumpvitin01.png" alt="Pumpvitin Logo" width="490"/>
 </p>
@@ -90,7 +97,3 @@ Pumpvitin = pill that fuels your dopamine & your portfolio.
 <p align="center">
   Made with ❤️, memes and too much coffee ☕🔥
 </p>
-
-
-
-
