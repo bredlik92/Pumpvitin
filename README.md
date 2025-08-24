@@ -13,3 +13,105 @@
     <img src="https://img.shields.io/badge/Trade%20on%20PumpFun-FF4081?style=for-the-badge" alt="Trade on PumpFun">
   </a>
 </p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pumpvitin – The Pill That Pumps 💊</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    .pill {
+      animation: spin 12s linear infinite;
+    }
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body class="bg-black text-white">
+  <!-- Hero -->
+  <section class="h-screen flex flex-col justify-center items-center text-center px-6">
+    <div class="pill w-32 h-32 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full mb-8 flex items-center justify-center text-5xl">
+      💊
+    </div>
+    <h1 class="text-5xl font-bold mb-4">
+      Pumpvitin – <span class="text-pink-500">The Pill That Pumps</span>
+    </h1>
+    <p class="text-lg mb-8">Energy for memes. Power for markets.</p>
+    <div class="flex gap-4 flex-wrap justify-center">
+      <a href="https://t.me/pumpvitin" target="_blank"
+         class="px-6 py-3 bg-pink-500 rounded-full hover:scale-105 transition">
+        Join Telegram
+      </a>
+      <a href="https://pump.fun/coin/C6DKbkhRMn6xT5vghR2SXQ5PWA5vNedWXN9rXTnCpump" target="_blank"
+         class="px-6 py-3 bg-purple-500 rounded-full hover:scale-105 transition">
+        Buy on PumpFun
+      </a>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="py-20 px-8 max-w-5xl mx-auto text-center">
+    <h2 class="text-4xl font-bold mb-10">⚡ About Pumpvitin</h2>
+    <div class="grid md:grid-cols-3 gap-8">
+      <div class="p-6 bg-gray-900 rounded-2xl hover:scale-105 transition">
+        <h3 class="text-xl mb-2">💊 Energy of memes</h3>
+        <p>Laughter spreads faster than FOMO.</p>
+      </div>
+      <div class="p-6 bg-gray-900 rounded-2xl hover:scale-105 transition">
+        <h3 class="text-xl mb-2">😂 Power of community</h3>
+        <p>The real utility is inside jokes.</p>
+      </div>
+      <div class="p-6 bg-gray-900 rounded-2xl hover:scale-105 transition">
+        <h3 class="text-xl mb-2">📈 Fuel for growth</h3>
+        <p>When people share memes, charts go 🚀.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tokenomics -->
+  <section class="py-20 px-8 bg-gradient-to-r from-purple-900 to-black text-center">
+    <h2 class="text-4xl font-bold mb-10">💊 Tokenomics</h2>
+    <div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+      <div class="p-6 bg-gray-900 rounded-2xl">🔥 Burn = Every coffee ☕</div>
+      <div class="p-6 bg-gray-900 rounded-2xl">💊 Supply = Infinite energy</div>
+      <div class="p-6 bg-gray-900 rounded-2xl">😂 Rewards = Craziest memes</div>
+    </div>
+  </section>
+
+  <!-- Roadmap -->
+  <section class="py-20 px-8 max-w-4xl mx-auto">
+    <h2 class="text-4xl font-bold mb-10 text-center">🚀 Roadmap</h2>
+    <ul class="space-y-6 text-lg">
+      <li>✅ Phase 1: Launch & Meme Army</li>
+      <li>🔜 Phase 2: Listings & Meme Wars</li>
+      <li>🌍 Phase 3: Global Domination</li>
+    </ul>
+  </section>
+
+  <!-- Community -->
+  <section class="py-20 px-8 text-center bg-gray-900">
+    <h2 class="text-4xl font-bold mb-6">🌍 Join the Community</h2>
+    <p class="mb-6">Be part of the Meme Army. Take your pill. Meme the world.</p>
+    <div class="flex justify-center gap-4 flex-wrap">
+      <a href="https://x.com/pumpvitin" target="_blank"
+         class="px-6 py-3 bg-blue-500 rounded-full hover:scale-105 transition">
+        Twitter
+      </a>
+      <a href="https://t.me/pumpvitin" target="_blank"
+         class="px-6 py-3 bg-green-500 rounded-full hover:scale-105 transition">
+        Telegram
+      </a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-6 text-center text-gray-500 text-sm">
+    Made with ❤️, memes & too much coffee ☕🔥
+  </footer>
+</body>
+</html>
